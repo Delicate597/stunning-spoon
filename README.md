@@ -1,2 +1,3 @@
-# stunning-spoon
-pdf to epub
+# 把pdf变为epub
+本程序自动把 pdf 文件中的 有文字照片用ORC转换成文字,并保留仅有图像的照片  
+从而减少储存
